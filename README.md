@@ -1,1 +1,1 @@
-# gitnote-images
+# LearningNotes-images
